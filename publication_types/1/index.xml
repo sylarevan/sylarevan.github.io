@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 on Sylvain Argentieri</title>
+    <link>https://me.sylar.org/publication_types/1/</link>
+    <description>Recent content in 1 on Sylvain Argentieri</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 05 Sep 2016 09:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://me.sylar.org/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Multimodal fusion and inference using binaural audition and vision</title>
+      <link>https://me.sylar.org/publication/2016c_multimodal_fusion_and_inference_ica/</link>
+      <pubDate>Mon, 05 Sep 2016 09:00:00 +0200</pubDate>
+      
+      <guid>https://me.sylar.org/publication/2016c_multimodal_fusion_and_inference_ica/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modulating the auditory turn-to reflex on the basis of multimodal feedback loops: The Dynamic Weighting model</title>
+      <link>https://me.sylar.org/publication/2015c_modulating_turn_to_reflex/</link>
+      <pubDate>Sun, 06 Dec 2015 09:00:00 +0200</pubDate>
+      
+      <guid>https://me.sylar.org/publication/2015c_modulating_turn_to_reflex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sensorimotor Learning of Sound Localization for an Autonomous Robot</title>
+      <link>https://me.sylar.org/publication/2014c_sensorimotor_learning_sound_localization/</link>
+      <pubDate>Sun, 07 Sep 2014 09:00:00 +0200</pubDate>
+      
+      <guid>https://me.sylar.org/publication/2014c_sensorimotor_learning_sound_localization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A learning-based approach to robust binaural sound localization</title>
+      <link>https://me.sylar.org/publication/2013c_-learning_based_approach/</link>
+      <pubDate>Sun, 03 Nov 2013 09:00:00 +0200</pubDate>
+      
+      <guid>https://me.sylar.org/publication/2013c_-learning_based_approach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A spherical cross-channel algorithm for binaural sound localization</title>
+      <link>https://me.sylar.org/publication/2013c_-spherical_cross_channel/</link>
+      <pubDate>Sun, 03 Nov 2013 09:00:00 +0200</pubDate>
+      
+      <guid>https://me.sylar.org/publication/2013c_-spherical_cross_channel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Active speaker localization with circular likelihoods and bootstrap filtering</title>
+      <link>https://me.sylar.org/publication/2013c_active_speaker_localization/</link>
+      <pubDate>Sun, 03 Nov 2013 09:00:00 +0200</pubDate>
+      
+      <guid>https://me.sylar.org/publication/2013c_active_speaker_localization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HRTF-based source azimuth estimation and activity detection from a binaural sensor</title>
+      <link>https://me.sylar.org/publication/2013c_-hrtf_base_source_azimuth/</link>
+      <pubDate>Sun, 03 Nov 2013 09:00:00 +0200</pubDate>
+      
+      <guid>https://me.sylar.org/publication/2013c_-hrtf_base_source_azimuth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A novel aircraft fault diagnosis and prognosis system based on Gaussian Mixture Models</title>
+      <link>https://me.sylar.org/publication/2012c_fault_diagnosis_system_gaussian/</link>
+      <pubDate>Wed, 05 Dec 2012 09:00:00 +0200</pubDate>
+      
+      <guid>https://me.sylar.org/publication/2012c_fault_diagnosis_system_gaussian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A non-linear approach to space dimension perception by a naive agent</title>
+      <link>https://me.sylar.org/publication/2012c_non_linear_approach/</link>
+      <pubDate>Sun, 07 Oct 2012 09:00:00 +0200</pubDate>
+      
+      <guid>https://me.sylar.org/publication/2012c_non_linear_approach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Active binaural localization of intermittent moving sources in the presence of false measurements</title>
+      <link>https://me.sylar.org/publication/2012c_active_binaural_localization/</link>
+      <pubDate>Sun, 07 Oct 2012 09:00:00 +0200</pubDate>
+      
+      <guid>https://me.sylar.org/publication/2012c_active_binaural_localization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards a systematic study of binaural cues</title>
+      <link>https://me.sylar.org/publication/2012c_towards_systematic/</link>
+      <pubDate>Sun, 07 Oct 2012 09:00:00 +0200</pubDate>
+      
+      <guid>https://me.sylar.org/publication/2012c_towards_systematic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A novel aircraft engine fault diagnostic and prognostic system based on SVM</title>
+      <link>https://me.sylar.org/publication/2012c_fault_diagnosis_system_svm/</link>
+      <pubDate>Sun, 23 Sep 2012 09:00:00 +0200</pubDate>
+      
+      <guid>https://me.sylar.org/publication/2012c_fault_diagnosis_system_svm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A novel fault diagnosis system for aircraft based on adaboost and five subsystems with different pattern recognition methods</title>
+      <link>https://me.sylar.org/publication/2012c_fault_diagnosis_system/</link>
+      <pubDate>Sun, 15 Jul 2012 09:00:00 +0200</pubDate>
+      
+      <guid>https://me.sylar.org/publication/2012c_fault_diagnosis_system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aircraft fault diagnosis and decision system based on improved artificial neural networks</title>
+      <link>https://me.sylar.org/publication/2012c_aircraft_fault_diagnosis/</link>
+      <pubDate>Wed, 11 Jul 2012 09:00:00 +0200</pubDate>
+      
+      <guid>https://me.sylar.org/publication/2012c_aircraft_fault_diagnosis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A binaural sound source localization method using auditive cues and vision</title>
+      <link>https://me.sylar.org/publication/2012c_auditive_cues_and_vision/</link>
+      <pubDate>Sun, 25 Mar 2012 09:00:00 +0200</pubDate>
+      
+      <guid>https://me.sylar.org/publication/2012c_auditive_cues_and_vision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multimodal sound localization for humanoid robots based on visio-auditive learning</title>
+      <link>https://me.sylar.org/publication/2011c_multimodal_sound_localization/</link>
+      <pubDate>Wed, 07 Dec 2011 09:00:00 +0200</pubDate>
+      
+      <guid>https://me.sylar.org/publication/2011c_multimodal_sound_localization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Acoustic models and Kalman filtering strategies for active binaural sound localization</title>
+      <link>https://me.sylar.org/publication/2011c_acoustics_model_kalman/</link>
+      <pubDate>Sun, 25 Sep 2011 09:00:00 +0200</pubDate>
+      
+      <guid>https://me.sylar.org/publication/2011c_acoustics_model_kalman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Approaches for Automatic Speaker Recognition in a Binaural Humanoid Context</title>
+      <link>https://me.sylar.org/publication/2011c_approaches_speaker_reco/</link>
+      <pubDate>Wed, 27 Apr 2011 09:00:00 +0200</pubDate>
+      
+      <guid>https://me.sylar.org/publication/2011c_approaches_speaker_reco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Binaural Speaker Recognition for humanoid robots</title>
+      <link>https://me.sylar.org/publication/2010c_binaural_speaker_recognition2/</link>
+      <pubDate>Tue, 14 Dec 2010 09:00:00 +0100</pubDate>
+      
+      <guid>https://me.sylar.org/publication/2010c_binaural_speaker_recognition2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Binaural speaker recognition for humanoid robots</title>
+      <link>https://me.sylar.org/publication/2010c_binaural_speaker_recognition/</link>
+      <pubDate>Tue, 07 Dec 2010 09:00:00 +0100</pubDate>
+      
+      <guid>https://me.sylar.org/publication/2010c_binaural_speaker_recognition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From monaural to binaural speaker recognition for humanoid robots</title>
+      <link>https://me.sylar.org/publication/2010c_monaural_binaural_speaker_recognition/</link>
+      <pubDate>Mon, 06 Dec 2010 09:00:00 +0100</pubDate>
+      
+      <guid>https://me.sylar.org/publication/2010c_monaural_binaural_speaker_recognition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Space dimension perception from the multimodal sensorimotor flow of a naive robotic agent</title>
+      <link>https://me.sylar.org/publication/2010c_space_dimension_perception/</link>
+      <pubDate>Mon, 18 Oct 2010 09:00:00 +0200</pubDate>
+      
+      <guid>https://me.sylar.org/publication/2010c_space_dimension_perception/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Speaker localization and speech extraction with the EAR sensor</title>
+      <link>https://me.sylar.org/publication/2009c_speaker_localization_ear/</link>
+      <pubDate>Sat, 10 Oct 2009 09:00:00 +0100</pubDate>
+      
+      <guid>https://me.sylar.org/publication/2009c_speaker_localization_ear/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Broadband variations of the MUSIC high-resolution method for Sound Source Localization in Robotics</title>
+      <link>https://me.sylar.org/publication/2007c_broadband_variation_music/</link>
+      <pubDate>Mon, 29 Oct 2007 09:00:00 +0100</pubDate>
+      
+      <guid>https://me.sylar.org/publication/2007c_broadband_variation_music/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convex Optimization and Modal Analysis for Beamforming in Robotics : Theoretical and Implementation Issues.</title>
+      <link>https://me.sylar.org/publication/2007c_convex_optimization_robotics/</link>
+      <pubDate>Mon, 03 Sep 2007 09:00:00 +0100</pubDate>
+      
+      <guid>https://me.sylar.org/publication/2007c_convex_optimization_robotics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modal Analysis Based Beamforming for Nearfield or Farfield Speaker Localization in Robotics</title>
+      <link>https://me.sylar.org/publication/2006c_modal_analysis/</link>
+      <pubDate>Mon, 09 Oct 2006 09:00:00 +0100</pubDate>
+      
+      <guid>https://me.sylar.org/publication/2006c_modal_analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conception d&#39;un système de localisation de source sonore large bande par formation de voie pour des applications robotiques.</title>
+      <link>https://me.sylar.org/publication/2005c_conception_systeme_localisation/</link>
+      <pubDate>Fri, 02 Sep 2005 09:00:00 +0100</pubDate>
+      
+      <guid>https://me.sylar.org/publication/2005c_conception_systeme_localisation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An experimental testbed for sound source localization with mobile robots using optimized wideband beamformers</title>
+      <link>https://me.sylar.org/publication/2005c_experimental_testbed/</link>
+      <pubDate>Tue, 02 Aug 2005 09:00:00 +0100</pubDate>
+      
+      <guid>https://me.sylar.org/publication/2005c_experimental_testbed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prototyping Filter-Sum Beamformers for Sound Source Localization in Mobile Robotics</title>
+      <link>https://me.sylar.org/publication/2005c_prototyping_filtersum_beamforming/</link>
+      <pubDate>Mon, 18 Apr 2005 09:00:00 +0100</pubDate>
+      
+      <guid>https://me.sylar.org/publication/2005c_prototyping_filtersum_beamforming/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

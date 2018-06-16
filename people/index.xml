@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>People on Sylvain Argentieri</title>
+    <link>https://me.sylar.org/people/</link>
+    <description>Recent content in People on Sylvain Argentieri</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 Jun 2018 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://me.sylar.org/people/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>People</title>
+      <link>https://me.sylar.org/people/people/</link>
+      <pubDate>Tue, 12 Jun 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://me.sylar.org/people/people/</guid>
+      <description>It&amp;rsquo;s a test!</description>
+    </item>
+    
+  </channel>
+</rss>

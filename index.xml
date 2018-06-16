@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sylvain Argentieri on Sylvain Argentieri</title>
+    <link>https://me.sylar.org/</link>
+    <description>Recent content in Sylvain Argentieri on Sylvain Argentieri</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 Jun 2016 02:00:00 +0200</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>People</title>
+      <link>https://me.sylar.org/people/people/</link>
+      <pubDate>Tue, 12 Jun 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://me.sylar.org/people/people/</guid>
+      <description>&lt;p&gt;It&amp;rsquo;s a test!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Interactive perception</title>
+      <link>https://me.sylar.org/project/interactive_perception/</link>
+      <pubDate>Tue, 12 Jun 2018 18:44:21 +0200</pubDate>
+      
+      <guid>https://me.sylar.org/project/interactive_perception/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robot audition</title>
+      <link>https://me.sylar.org/project/robot_audition/</link>
+      <pubDate>Tue, 12 Jun 2018 18:40:38 +0200</pubDate>
+      
+      <guid>https://me.sylar.org/project/robot_audition/</guid>
+      <description>&lt;p&gt;This is a test&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Binaural Localization of Multiple Sound Sources by Non-Negative Tensor Factorization</title>
+      <link>https://me.sylar.org/publication/2018j_binaural_non_negative_tensor/</link>
+      <pubDate>Fri, 01 Jun 2018 09:00:00 +0100</pubDate>
+      
+      <guid>https://me.sylar.org/publication/2018j_binaural_non_negative_tensor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Building a Sensorimotor Representation of a Naive Agent’s Tactile Space</title>
+      <link>https://me.sylar.org/publication/2017j_building_sensorimotor_tactile_space/</link>
+      <pubDate>Thu, 01 Jun 2017 09:00:00 +0100</pubDate>
+      
+      <guid>https://me.sylar.org/publication/2017j_building_sensorimotor_tactile_space/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Building and exploiting a sensorimotor representation of a naive agent self-interaction</title>
+      <link>https://me.sylar.org/publication/2016w_building_exploiting_sensorimotor_representation/</link>
+      <pubDate>Mon, 19 Sep 2016 09:00:00 +0200</pubDate>
+      
+      <guid>https://me.sylar.org/publication/2016w_building_exploiting_sensorimotor_representation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multimodal fusion and inference using binaural audition and vision</title>
+      <link>https://me.sylar.org/publication/2016c_multimodal_fusion_and_inference_ica/</link>
+      <pubDate>Mon, 05 Sep 2016 09:00:00 +0200</pubDate>
+      
+      <guid>https://me.sylar.org/publication/2016c_multimodal_fusion_and_inference_ica/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Une brève introduction à la perception sensori-motrice en robotique</title>
+      <link>https://me.sylar.org/publication/2016j_intellectica/</link>
+      <pubDate>Mon, 01 Feb 2016 09:00:00 +0100</pubDate>
+      
+      <guid>https://me.sylar.org/publication/2016j_intellectica/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modulating the auditory turn-to reflex on the basis of multimodal feedback loops: The Dynamic Weighting model</title>
+      <link>https://me.sylar.org/publication/2015c_modulating_turn_to_reflex/</link>
+      <pubDate>Sun, 06 Dec 2015 09:00:00 +0200</pubDate>
+      
+      <guid>https://me.sylar.org/publication/2015c_modulating_turn_to_reflex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A survey on sound source localization in robotics: From binaural to array processing methods</title>
+      <link>https://me.sylar.org/publication/2015j_survey_sound_source_localization/</link>
+      <pubDate>Sun, 01 Nov 2015 09:00:00 +0200</pubDate>
+      
+      <guid>https://me.sylar.org/publication/2015j_survey_sound_source_localization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Building the representation of an agent body from its sensorimotor invariants</title>
+      <link>https://me.sylar.org/publication/2015w_building_representation_body/</link>
+      <pubDate>Fri, 02 Oct 2015 09:00:00 +0100</pubDate>
+      
+      <guid>https://me.sylar.org/publication/2015w_building_representation_body/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning agents spatial configuration from sensorimotor invariants</title>
+      <link>https://me.sylar.org/publication/2015j_learning_agents_spatial_configuration/</link>
+      <pubDate>Tue, 01 Sep 2015 09:00:00 +0100</pubDate>
+      
+      <guid>https://me.sylar.org/publication/2015j_learning_agents_spatial_configuration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sensorimotor Learning of Sound Localization for an Autonomous Robot</title>
+      <link>https://me.sylar.org/publication/2014c_sensorimotor_learning_sound_localization/</link>
+      <pubDate>Sun, 07 Sep 2014 09:00:00 +0200</pubDate>
+      
+      <guid>https://me.sylar.org/publication/2014c_sensorimotor_learning_sound_localization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A learning-based approach to robust binaural sound localization</title>
+      <link>https://me.sylar.org/publication/2013c_-learning_based_approach/</link>
+      <pubDate>Sun, 03 Nov 2013 09:00:00 +0200</pubDate>
+      
+      <guid>https://me.sylar.org/publication/2013c_-learning_based_approach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A spherical cross-channel algorithm for binaural sound localization</title>
+      <link>https://me.sylar.org/publication/2013c_-spherical_cross_channel/</link>
+      <pubDate>Sun, 03 Nov 2013 09:00:00 +0200</pubDate>
+      
+      <guid>https://me.sylar.org/publication/2013c_-spherical_cross_channel/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
