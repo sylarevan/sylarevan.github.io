@@ -6,10 +6,19 @@
     <description>Recent content in 5 on Sylvain Argentieri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Sep 2016 09:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 10 Sep 2018 09:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://me.sylar.org/publication_types/5/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Where do I move my sensors? Emergence of an internal representation from the sensorimotor flow</title>
+      <link>https://me.sylar.org/publication/2018w_where_do_i_move/</link>
+      <pubDate>Mon, 10 Sep 2018 09:00:00 +0100</pubDate>
+      
+      <guid>https://me.sylar.org/publication/2018w_where_do_i_move/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Building and exploiting a sensorimotor representation of a naive agent self-interaction</title>
