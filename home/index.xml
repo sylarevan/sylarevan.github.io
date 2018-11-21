@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Sylvain Argentieri</title>
-    <link>https://me.sylar.org/home/</link>
+    <link>https://my.sylar.org/home/</link>
     <description>Recent content in Homes on Sylvain Argentieri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 10 Jun 2016 02:00:00 +0200</lastBuildDate>
     
-	<atom:link href="https://me.sylar.org/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://my.sylar.org/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://me.sylar.org/home/about/</link>
+      <link>https://my.sylar.org/home/about/</link>
       <pubDate>Fri, 10 Jun 2016 02:00:00 +0200</pubDate>
       
-      <guid>https://me.sylar.org/home/about/</guid>
+      <guid>https://my.sylar.org/home/about/</guid>
       <description>Biography My research interests are mainly focused on active/interactive perception, i.e. understanding how perception and action are tighlty linked together inside the sensorimotor flow. My approach consists in studying sensorimotor contingencies (i.e. invariants) whose mathematical structure can explain how a naive robot can understand, by itself, the structure of its interaction with the environment.
 I have also worked on Robot Audition (well, I still do sometimes), especially within the binaural paradigm.</description>
     </item>
     
     <item>
       <title>Research</title>
-      <link>https://me.sylar.org/home/projects/</link>
+      <link>https://my.sylar.org/home/projects/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>https://me.sylar.org/home/projects/</guid>
+      <guid>https://my.sylar.org/home/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Publications</title>
-      <link>https://me.sylar.org/home/publications_selected/</link>
+      <link>https://my.sylar.org/home/publications_selected/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>https://me.sylar.org/home/publications_selected/</guid>
+      <guid>https://my.sylar.org/home/publications_selected/</guid>
       <description>My list of publications is available here.
 Selected publications :</description>
     </item>
     
     <item>
       <title>Recent Publications</title>
-      <link>https://me.sylar.org/home/publications/</link>
+      <link>https://my.sylar.org/home/publications/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>https://me.sylar.org/home/publications/</guid>
+      <guid>https://my.sylar.org/home/publications/</guid>
       <description></description>
     </item>
     
     <item>
       <title>People</title>
-      <link>https://me.sylar.org/home/people/</link>
+      <link>https://my.sylar.org/home/people/</link>
       <pubDate>Tue, 12 Jun 2018 00:00:00 +0200</pubDate>
       
-      <guid>https://me.sylar.org/home/people/</guid>
+      <guid>https://my.sylar.org/home/people/</guid>
       <description>Research is definitely not something you can do alone. You work with colleagues, partners, students, all of them sharing their enthusiasm, knownledge and competences. I have/had the pleasure to work with:
 PhD students Jean-Merwan Godon (2017 - to date), co-advised with Bruno Gas
 Jean comes from applied mathematics, and he tried during his M.Sc. internship to introduce some rigorous mathematical foundations to the notion of action, in the framework of interactive perception.</description>
@@ -62,28 +62,28 @@ Jean comes from applied mathematics, and he tried during his M.Sc. internship to
     
     <item>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>https://me.sylar.org/home/talks/</link>
+      <link>https://my.sylar.org/home/talks/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>https://me.sylar.org/home/talks/</guid>
+      <guid>https://my.sylar.org/home/talks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent Posts</title>
-      <link>https://me.sylar.org/home/posts/</link>
+      <link>https://my.sylar.org/home/posts/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>https://me.sylar.org/home/posts/</guid>
+      <guid>https://my.sylar.org/home/posts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Teaching</title>
-      <link>https://me.sylar.org/home/teaching/</link>
+      <link>https://my.sylar.org/home/teaching/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>https://me.sylar.org/home/teaching/</guid>
+      <guid>https://my.sylar.org/home/teaching/</guid>
       <description>I&amp;rsquo;m the teaching instructor for the following courses at Sorbonne Université:
  3E105: an introduction to acquisition and audio processing 4AN01: digital signal processing 5AR01: robot audition, an introduction  I&amp;rsquo;m also involved in the following courses (tutorial classes or practical works):
  TO DO  Most of my courses are available on Sorbonne Université&amp;rsquo;s Moodle (only available to the University students, for now).</description>
@@ -91,19 +91,19 @@ Jean comes from applied mathematics, and he tried during his M.Sc. internship to
     
     <item>
       <title>Tags</title>
-      <link>https://me.sylar.org/home/tags/</link>
+      <link>https://my.sylar.org/home/tags/</link>
       <pubDate>Wed, 20 Sep 2017 00:00:00 +0200</pubDate>
       
-      <guid>https://me.sylar.org/home/tags/</guid>
+      <guid>https://my.sylar.org/home/tags/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://me.sylar.org/home/contact/</link>
+      <link>https://my.sylar.org/home/contact/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>https://me.sylar.org/home/contact/</guid>
+      <guid>https://my.sylar.org/home/contact/</guid>
       <description></description>
     </item>
     

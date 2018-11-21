@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>6 on Sylvain Argentieri</title>
-    <link>https://me.sylar.org/publication_types/6/</link>
+    <link>https://my.sylar.org/publication_types/6/</link>
     <description>Recent content in 6 on Sylvain Argentieri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 07 Sep 2013 09:00:00 +0200</lastBuildDate>
     
-	<atom:link href="https://me.sylar.org/publication_types/6/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://my.sylar.org/publication_types/6/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>A Decision System for Aircraft Faults Diagnosis Based on Classification Trees and PCA</title>
-      <link>https://me.sylar.org/publication/2013b_decision_system_aircraft/</link>
+      <link>https://my.sylar.org/publication/2013b_decision_system_aircraft/</link>
       <pubDate>Sat, 07 Sep 2013 09:00:00 +0200</pubDate>
       
-      <guid>https://me.sylar.org/publication/2013b_decision_system_aircraft/</guid>
+      <guid>https://my.sylar.org/publication/2013b_decision_system_aircraft/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Binaural Systems in Robotics</title>
-      <link>https://me.sylar.org/publication/2013b_binaural_system_robotics/</link>
+      <link>https://my.sylar.org/publication/2013b_binaural_system_robotics/</link>
       <pubDate>Sat, 07 Sep 2013 09:00:00 +0200</pubDate>
       
-      <guid>https://me.sylar.org/publication/2013b_binaural_system_robotics/</guid>
+      <guid>https://my.sylar.org/publication/2013b_binaural_system_robotics/</guid>
       <description></description>
     </item>
     

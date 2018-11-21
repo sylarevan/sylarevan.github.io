@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Sylvain Argentieri</title>
-    <link>https://me.sylar.org/project/</link>
+    <link>https://my.sylar.org/project/</link>
     <description>Recent content in Projects on Sylvain Argentieri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 12 Jun 2018 18:44:21 +0200</lastBuildDate>
     
-	<atom:link href="https://me.sylar.org/project/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://my.sylar.org/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Interactive perception</title>
-      <link>https://me.sylar.org/project/interactive_perception/</link>
+      <link>https://my.sylar.org/project/interactive_perception/</link>
       <pubDate>Tue, 12 Jun 2018 18:44:21 +0200</pubDate>
       
-      <guid>https://me.sylar.org/project/interactive_perception/</guid>
+      <guid>https://my.sylar.org/project/interactive_perception/</guid>
       <description>More to come soon.</description>
     </item>
     
     <item>
       <title>Robot audition</title>
-      <link>https://me.sylar.org/project/robot_audition/</link>
+      <link>https://my.sylar.org/project/robot_audition/</link>
       <pubDate>Tue, 12 Jun 2018 18:40:38 +0200</pubDate>
       
-      <guid>https://me.sylar.org/project/robot_audition/</guid>
+      <guid>https://my.sylar.org/project/robot_audition/</guid>
       <description>More to come soon.</description>
     </item>
     
