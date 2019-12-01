@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sylvain Argentieri on Sylvain Argentieri</title>
@@ -6,7 +5,7 @@
     <description>Recent content in Sylvain Argentieri on Sylvain Argentieri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 10 Jun 2016 02:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 01 Dec 2019 09:00:00 +0100</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
@@ -17,6 +16,24 @@
       <guid>https://my.sylar.org/people/people/</guid>
       <description>&lt;p&gt;It&amp;rsquo;s a test!&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Where do I move my sensors? Emergence of a topological representation of sensors poses from the sensorimotor flow</title>
+      <link>https://my.sylar.org/publication/2020j_where_do_i_move/</link>
+      <pubDate>Sun, 01 Dec 2019 09:00:00 +0100</pubDate>
+      
+      <guid>https://my.sylar.org/publication/2020j_where_do_i_move/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Audition as a Trigger for Head Movements</title>
+      <link>https://my.sylar.org/publication/2020b_audition_as_a_trigger/</link>
+      <pubDate>Sun, 01 Dec 2019 09:00:00 +0200</pubDate>
+      
+      <guid>https://my.sylar.org/publication/2020b_audition_as_a_trigger/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -126,24 +143,6 @@
       <pubDate>Sun, 01 Nov 2015 09:00:00 +0200</pubDate>
       
       <guid>https://my.sylar.org/publication/2015j_survey_sound_source_localization/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Building the representation of an agent body from its sensorimotor invariants</title>
-      <link>https://my.sylar.org/publication/2015w_building_representation_body/</link>
-      <pubDate>Fri, 02 Oct 2015 09:00:00 +0100</pubDate>
-      
-      <guid>https://my.sylar.org/publication/2015w_building_representation_body/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Learning agents spatial configuration from sensorimotor invariants</title>
-      <link>https://my.sylar.org/publication/2015j_learning_agents_spatial_configuration/</link>
-      <pubDate>Tue, 01 Sep 2015 09:00:00 +0100</pubDate>
-      
-      <guid>https://my.sylar.org/publication/2015j_learning_agents_spatial_configuration/</guid>
       <description></description>
     </item>
     
