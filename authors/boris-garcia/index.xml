@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Boris Garcia | Sylvain Argentieri</title>
+    <link>https://my.sylar.org/authors/boris-garcia/</link>
+      <atom:link href="https://my.sylar.org/authors/boris-garcia/index.xml" rel="self" type="application/rss+xml" />
+    <description>Boris Garcia</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 02 Oct 2015 09:00:00 +0100</lastBuildDate>
+    <image>
+      <url>https://my.sylar.org/images/icon_hu1a01b3fab95c353a9499cb6a8a91062a_16677_512x512_fill_lanczos_center_2.png</url>
+      <title>Boris Garcia</title>
+      <link>https://my.sylar.org/authors/boris-garcia/</link>
+    </image>
+    
+    <item>
+      <title>Building the representation of an agent body from its sensorimotor invariants</title>
+      <link>https://my.sylar.org/publication/2015w_building_representation_body/</link>
+      <pubDate>Fri, 02 Oct 2015 09:00:00 +0100</pubDate>
+      <guid>https://my.sylar.org/publication/2015w_building_representation_body/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sensorimotor Learning of Sound Localization for an Autonomous Robot</title>
+      <link>https://my.sylar.org/publication/2014c_sensorimotor_learning_sound_localization/</link>
+      <pubDate>Sun, 07 Sep 2014 09:00:00 +0200</pubDate>
+      <guid>https://my.sylar.org/publication/2014c_sensorimotor_learning_sound_localization/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

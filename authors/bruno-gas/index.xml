@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bruno Gas | Sylvain Argentieri</title>
+    <link>https://my.sylar.org/authors/bruno-gas/</link>
+      <atom:link href="https://my.sylar.org/authors/bruno-gas/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bruno Gas</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://my.sylar.org/images/icon_hu1a01b3fab95c353a9499cb6a8a91062a_16677_512x512_fill_lanczos_center_2.png</url>
+      <title>Bruno Gas</title>
+      <link>https://my.sylar.org/authors/bruno-gas/</link>
+    </image>
+    
+    <item>
+      <title>Audition as a Trigger for Head Movements</title>
+      <link>https://my.sylar.org/publication/2020b_audition_as_a_trigger/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://my.sylar.org/publication/2020b_audition_as_a_trigger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Where do I move my sensors? Emergence of a topological representation of sensors poses from the sensorimotor flow</title>
+      <link>https://my.sylar.org/publication/2020j_where_do_i_move/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://my.sylar.org/publication/2020j_where_do_i_move/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Where do I move my sensors? Emergence of an internal representation from the sensorimotor flow</title>
+      <link>https://my.sylar.org/publication/2018w_where_do_i_move/</link>
+      <pubDate>Mon, 10 Sep 2018 09:00:00 +0100</pubDate>
+      <guid>https://my.sylar.org/publication/2018w_where_do_i_move/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Head Turning Modulation system: an active multimodal paradigm for intrinsically motivated exploration of unknown environments</title>
+      <link>https://my.sylar.org/publication/2018j_head_turning_modulation_system/</link>
+      <pubDate>Thu, 30 Aug 2018 09:00:00 +0100</pubDate>
+      <guid>https://my.sylar.org/publication/2018j_head_turning_modulation_system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Building a Sensorimotor Representation of a Naive Agent’s Tactile Space</title>
+      <link>https://my.sylar.org/publication/2017j_building_sensorimotor_tactile_space/</link>
+      <pubDate>Thu, 01 Jun 2017 09:00:00 +0100</pubDate>
+      <guid>https://my.sylar.org/publication/2017j_building_sensorimotor_tactile_space/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Building and exploiting a sensorimotor representation of a naive agent self-interaction</title>
+      <link>https://my.sylar.org/publication/2016w_building_exploiting_sensorimotor_representation/</link>
+      <pubDate>Mon, 19 Sep 2016 09:00:00 +0200</pubDate>
+      <guid>https://my.sylar.org/publication/2016w_building_exploiting_sensorimotor_representation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multimodal fusion and inference using binaural audition and vision</title>
+      <link>https://my.sylar.org/publication/2016c_multimodal_fusion_and_inference_ica/</link>
+      <pubDate>Mon, 05 Sep 2016 09:00:00 +0200</pubDate>
+      <guid>https://my.sylar.org/publication/2016c_multimodal_fusion_and_inference_ica/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Une brève introduction à la perception sensori-motrice en robotique</title>
+      <link>https://my.sylar.org/publication/2016j_intellectica/</link>
+      <pubDate>Mon, 01 Feb 2016 09:00:00 +0100</pubDate>
+      <guid>https://my.sylar.org/publication/2016j_intellectica/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modulating the auditory turn-to reflex on the basis of multimodal feedback loops: The Dynamic Weighting model</title>
+      <link>https://my.sylar.org/publication/2015c_modulating_turn_to_reflex/</link>
+      <pubDate>Sun, 06 Dec 2015 09:00:00 +0200</pubDate>
+      <guid>https://my.sylar.org/publication/2015c_modulating_turn_to_reflex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Building the representation of an agent body from its sensorimotor invariants</title>
+      <link>https://my.sylar.org/publication/2015w_building_representation_body/</link>
+      <pubDate>Fri, 02 Oct 2015 09:00:00 +0100</pubDate>
+      <guid>https://my.sylar.org/publication/2015w_building_representation_body/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning agents spatial configuration from sensorimotor invariants</title>
+      <link>https://my.sylar.org/publication/2015j_learning_agents_spatial_configuration/</link>
+      <pubDate>Tue, 01 Sep 2015 09:00:00 +0100</pubDate>
+      <guid>https://my.sylar.org/publication/2015j_learning_agents_spatial_configuration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sensorimotor Learning of Sound Localization for an Autonomous Robot</title>
+      <link>https://my.sylar.org/publication/2014c_sensorimotor_learning_sound_localization/</link>
+      <pubDate>Sun, 07 Sep 2014 09:00:00 +0200</pubDate>
+      <guid>https://my.sylar.org/publication/2014c_sensorimotor_learning_sound_localization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Binaural Systems in Robotics</title>
+      <link>https://my.sylar.org/publication/2013b_binaural_system_robotics/</link>
+      <pubDate>Sat, 07 Sep 2013 09:00:00 +0200</pubDate>
+      <guid>https://my.sylar.org/publication/2013b_binaural_system_robotics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A non-linear approach to space dimension perception by a naive agent</title>
+      <link>https://my.sylar.org/publication/2012c_non_linear_approach/</link>
+      <pubDate>Sun, 07 Oct 2012 09:00:00 +0200</pubDate>
+      <guid>https://my.sylar.org/publication/2012c_non_linear_approach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Space dimension perception from the multimodal sensorimotor flow of a naive robotic agent</title>
+      <link>https://my.sylar.org/publication/2010c_space_dimension_perception/</link>
+      <pubDate>Mon, 18 Oct 2010 09:00:00 +0200</pubDate>
+      <guid>https://my.sylar.org/publication/2010c_space_dimension_perception/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sylvain Pledel | Sylvain Argentieri</title>
+    <link>https://my.sylar.org/authors/sylvain-pledel/</link>
+      <atom:link href="https://my.sylar.org/authors/sylvain-pledel/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sylvain Pledel</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 03 Nov 2013 09:00:00 +0200</lastBuildDate>
+    <image>
+      <url>https://my.sylar.org/images/icon_hu1a01b3fab95c353a9499cb6a8a91062a_16677_512x512_fill_lanczos_center_2.png</url>
+      <title>Sylvain Pledel</title>
+      <link>https://my.sylar.org/authors/sylvain-pledel/</link>
+    </image>
+    
+    <item>
+      <title>HRTF-based source azimuth estimation and activity detection from a binaural sensor</title>
+      <link>https://my.sylar.org/publication/2013c_hrtf_base_source_azimuth/</link>
+      <pubDate>Sun, 03 Nov 2013 09:00:00 +0200</pubDate>
+      <guid>https://my.sylar.org/publication/2013c_hrtf_base_source_azimuth/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

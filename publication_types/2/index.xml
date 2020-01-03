@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>2 on Sylvain Argentieri</title>
+    <title>2 | Sylvain Argentieri</title>
     <link>https://my.sylar.org/publication_types/2/</link>
-    <description>Recent content in 2 on Sylvain Argentieri</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 01 Dec 2019 09:00:00 +0100</lastBuildDate>
-    
-	<atom:link href="https://my.sylar.org/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://my.sylar.org/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://my.sylar.org/images/icon_hu1a01b3fab95c353a9499cb6a8a91062a_16677_512x512_fill_lanczos_center_2.png</url>
+      <title>2</title>
+      <link>https://my.sylar.org/publication_types/2/</link>
+    </image>
     
     <item>
       <title>Where do I move my sensors? Emergence of a topological representation of sensors poses from the sensorimotor flow</title>
       <link>https://my.sylar.org/publication/2020j_where_do_i_move/</link>
-      <pubDate>Sun, 01 Dec 2019 09:00:00 +0100</pubDate>
-      
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://my.sylar.org/publication/2020j_where_do_i_move/</guid>
       <description></description>
     </item>
@@ -24,7 +24,6 @@
       <title>The Head Turning Modulation system: an active multimodal paradigm for intrinsically motivated exploration of unknown environments</title>
       <link>https://my.sylar.org/publication/2018j_head_turning_modulation_system/</link>
       <pubDate>Thu, 30 Aug 2018 09:00:00 +0100</pubDate>
-      
       <guid>https://my.sylar.org/publication/2018j_head_turning_modulation_system/</guid>
       <description></description>
     </item>
@@ -33,7 +32,6 @@
       <title>Binaural Localization of Multiple Sound Sources by Non-Negative Tensor Factorization</title>
       <link>https://my.sylar.org/publication/2018j_binaural_non_negative_tensor/</link>
       <pubDate>Fri, 01 Jun 2018 09:00:00 +0100</pubDate>
-      
       <guid>https://my.sylar.org/publication/2018j_binaural_non_negative_tensor/</guid>
       <description></description>
     </item>
@@ -42,7 +40,6 @@
       <title>Building a Sensorimotor Representation of a Naive Agent’s Tactile Space</title>
       <link>https://my.sylar.org/publication/2017j_building_sensorimotor_tactile_space/</link>
       <pubDate>Thu, 01 Jun 2017 09:00:00 +0100</pubDate>
-      
       <guid>https://my.sylar.org/publication/2017j_building_sensorimotor_tactile_space/</guid>
       <description></description>
     </item>
@@ -51,7 +48,6 @@
       <title>Une brève introduction à la perception sensori-motrice en robotique</title>
       <link>https://my.sylar.org/publication/2016j_intellectica/</link>
       <pubDate>Mon, 01 Feb 2016 09:00:00 +0100</pubDate>
-      
       <guid>https://my.sylar.org/publication/2016j_intellectica/</guid>
       <description></description>
     </item>
@@ -60,7 +56,6 @@
       <title>A survey on sound source localization in robotics: From binaural to array processing methods</title>
       <link>https://my.sylar.org/publication/2015j_survey_sound_source_localization/</link>
       <pubDate>Sun, 01 Nov 2015 09:00:00 +0200</pubDate>
-      
       <guid>https://my.sylar.org/publication/2015j_survey_sound_source_localization/</guid>
       <description></description>
     </item>
@@ -69,7 +64,6 @@
       <title>Learning agents spatial configuration from sensorimotor invariants</title>
       <link>https://my.sylar.org/publication/2015j_learning_agents_spatial_configuration/</link>
       <pubDate>Tue, 01 Sep 2015 09:00:00 +0100</pubDate>
-      
       <guid>https://my.sylar.org/publication/2015j_learning_agents_spatial_configuration/</guid>
       <description></description>
     </item>
@@ -78,7 +72,6 @@
       <title>The EAR Project</title>
       <link>https://my.sylar.org/publication/2010j_the_ear_project/</link>
       <pubDate>Tue, 01 Jun 2010 09:00:00 +0200</pubDate>
-      
       <guid>https://my.sylar.org/publication/2010j_the_ear_project/</guid>
       <description></description>
     </item>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Valentin Marcel | Sylvain Argentieri</title>
+    <link>https://my.sylar.org/authors/valentin-marcel/</link>
+      <atom:link href="https://my.sylar.org/authors/valentin-marcel/index.xml" rel="self" type="application/rss+xml" />
+    <description>Valentin Marcel</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://my.sylar.org/images/icon_hu1a01b3fab95c353a9499cb6a8a91062a_16677_512x512_fill_lanczos_center_2.png</url>
+      <title>Valentin Marcel</title>
+      <link>https://my.sylar.org/authors/valentin-marcel/</link>
+    </image>
+    
+    <item>
+      <title>Where do I move my sensors? Emergence of a topological representation of sensors poses from the sensorimotor flow</title>
+      <link>https://my.sylar.org/publication/2020j_where_do_i_move/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://my.sylar.org/publication/2020j_where_do_i_move/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Where do I move my sensors? Emergence of an internal representation from the sensorimotor flow</title>
+      <link>https://my.sylar.org/publication/2018w_where_do_i_move/</link>
+      <pubDate>Mon, 10 Sep 2018 09:00:00 +0100</pubDate>
+      <guid>https://my.sylar.org/publication/2018w_where_do_i_move/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Building a Sensorimotor Representation of a Naive Agent’s Tactile Space</title>
+      <link>https://my.sylar.org/publication/2017j_building_sensorimotor_tactile_space/</link>
+      <pubDate>Thu, 01 Jun 2017 09:00:00 +0100</pubDate>
+      <guid>https://my.sylar.org/publication/2017j_building_sensorimotor_tactile_space/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Building and exploiting a sensorimotor representation of a naive agent self-interaction</title>
+      <link>https://my.sylar.org/publication/2016w_building_exploiting_sensorimotor_representation/</link>
+      <pubDate>Mon, 19 Sep 2016 09:00:00 +0200</pubDate>
+      <guid>https://my.sylar.org/publication/2016w_building_exploiting_sensorimotor_representation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Building the representation of an agent body from its sensorimotor invariants</title>
+      <link>https://my.sylar.org/publication/2015w_building_representation_body/</link>
+      <pubDate>Fri, 02 Oct 2015 09:00:00 +0100</pubDate>
+      <guid>https://my.sylar.org/publication/2015w_building_representation_body/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

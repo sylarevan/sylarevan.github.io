@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Philippe Souères | Sylvain Argentieri</title>
+    <link>https://my.sylar.org/authors/philippe-soueres/</link>
+      <atom:link href="https://my.sylar.org/authors/philippe-soueres/index.xml" rel="self" type="application/rss+xml" />
+    <description>Philippe Souères</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Nov 2015 09:00:00 +0200</lastBuildDate>
+    <image>
+      <url>https://my.sylar.org/images/icon_hu1a01b3fab95c353a9499cb6a8a91062a_16677_512x512_fill_lanczos_center_2.png</url>
+      <title>Philippe Souères</title>
+      <link>https://my.sylar.org/authors/philippe-soueres/</link>
+    </image>
+    
+    <item>
+      <title>A survey on sound source localization in robotics: From binaural to array processing methods</title>
+      <link>https://my.sylar.org/publication/2015j_survey_sound_source_localization/</link>
+      <pubDate>Sun, 01 Nov 2015 09:00:00 +0200</pubDate>
+      <guid>https://my.sylar.org/publication/2015j_survey_sound_source_localization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The EAR Project</title>
+      <link>https://my.sylar.org/publication/2010j_the_ear_project/</link>
+      <pubDate>Tue, 01 Jun 2010 09:00:00 +0200</pubDate>
+      <guid>https://my.sylar.org/publication/2010j_the_ear_project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modal Analysis Based Beamforming for Nearfield or Farfield Speaker Localization in Robotics</title>
+      <link>https://my.sylar.org/publication/2006c_modal_analysis/</link>
+      <pubDate>Mon, 09 Oct 2006 09:00:00 +0100</pubDate>
+      <guid>https://my.sylar.org/publication/2006c_modal_analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conception d&#39;un système de localisation de source sonore large bande par formation de voie pour des applications robotiques.</title>
+      <link>https://my.sylar.org/publication/2005c_conception_systeme_localisation/</link>
+      <pubDate>Fri, 02 Sep 2005 09:00:00 +0100</pubDate>
+      <guid>https://my.sylar.org/publication/2005c_conception_systeme_localisation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An experimental testbed for sound source localization with mobile robots using optimized wideband beamformers</title>
+      <link>https://my.sylar.org/publication/2005c_experimental_testbed/</link>
+      <pubDate>Tue, 02 Aug 2005 09:00:00 +0100</pubDate>
+      <guid>https://my.sylar.org/publication/2005c_experimental_testbed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prototyping Filter-Sum Beamformers for Sound Source Localization in Mobile Robotics</title>
+      <link>https://my.sylar.org/publication/2005c_prototyping_filtersum_beamforming/</link>
+      <pubDate>Mon, 18 Apr 2005 09:00:00 +0100</pubDate>
+      <guid>https://my.sylar.org/publication/2005c_prototyping_filtersum_beamforming/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

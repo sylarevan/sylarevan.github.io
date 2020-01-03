@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zefeng Wang | Sylvain Argentieri</title>
+    <link>https://my.sylar.org/authors/zefeng-wang/</link>
+      <atom:link href="https://my.sylar.org/authors/zefeng-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zefeng Wang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 07 Sep 2013 09:00:00 +0200</lastBuildDate>
+    <image>
+      <url>https://my.sylar.org/images/icon_hu1a01b3fab95c353a9499cb6a8a91062a_16677_512x512_fill_lanczos_center_2.png</url>
+      <title>Zefeng Wang</title>
+      <link>https://my.sylar.org/authors/zefeng-wang/</link>
+    </image>
+    
+    <item>
+      <title>A Decision System for Aircraft Faults Diagnosis Based on Classification Trees and PCA</title>
+      <link>https://my.sylar.org/publication/2013b_decision_system_aircraft/</link>
+      <pubDate>Sat, 07 Sep 2013 09:00:00 +0200</pubDate>
+      <guid>https://my.sylar.org/publication/2013b_decision_system_aircraft/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A novel aircraft fault diagnosis and prognosis system based on Gaussian Mixture Models</title>
+      <link>https://my.sylar.org/publication/2012c_fault_diagnosis_system_gaussian/</link>
+      <pubDate>Wed, 05 Dec 2012 09:00:00 +0200</pubDate>
+      <guid>https://my.sylar.org/publication/2012c_fault_diagnosis_system_gaussian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A novel aircraft engine fault diagnostic and prognostic system based on SVM</title>
+      <link>https://my.sylar.org/publication/2012c_fault_diagnosis_system_svm/</link>
+      <pubDate>Sun, 23 Sep 2012 09:00:00 +0200</pubDate>
+      <guid>https://my.sylar.org/publication/2012c_fault_diagnosis_system_svm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A novel fault diagnosis system for aircraft based on adaboost and five subsystems with different pattern recognition methods</title>
+      <link>https://my.sylar.org/publication/2012c_fault_diagnosis_system/</link>
+      <pubDate>Sun, 15 Jul 2012 09:00:00 +0200</pubDate>
+      <guid>https://my.sylar.org/publication/2012c_fault_diagnosis_system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aircraft fault diagnosis and decision system based on improved artificial neural networks</title>
+      <link>https://my.sylar.org/publication/2012c_aircraft_fault_diagnosis/</link>
+      <pubDate>Wed, 11 Jul 2012 09:00:00 +0200</pubDate>
+      <guid>https://my.sylar.org/publication/2012c_aircraft_fault_diagnosis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Approaches for Automatic Speaker Recognition in a Binaural Humanoid Context</title>
+      <link>https://my.sylar.org/publication/2011c_approaches_speaker_reco/</link>
+      <pubDate>Wed, 27 Apr 2011 09:00:00 +0200</pubDate>
+      <guid>https://my.sylar.org/publication/2011c_approaches_speaker_reco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Binaural Speaker Recognition for humanoid robots</title>
+      <link>https://my.sylar.org/publication/2010c_binaural_speaker_recognition2/</link>
+      <pubDate>Tue, 14 Dec 2010 09:00:00 +0100</pubDate>
+      <guid>https://my.sylar.org/publication/2010c_binaural_speaker_recognition2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Karim Youssef | Sylvain Argentieri</title>
+    <link>https://my.sylar.org/authors/karim-youssef/</link>
+      <atom:link href="https://my.sylar.org/authors/karim-youssef/index.xml" rel="self" type="application/rss+xml" />
+    <description>Karim Youssef</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 03 Nov 2013 09:00:00 +0200</lastBuildDate>
+    <image>
+      <url>https://my.sylar.org/images/icon_hu1a01b3fab95c353a9499cb6a8a91062a_16677_512x512_fill_lanczos_center_2.png</url>
+      <title>Karim Youssef</title>
+      <link>https://my.sylar.org/authors/karim-youssef/</link>
+    </image>
+    
+    <item>
+      <title>A learning-based approach to robust binaural sound localization</title>
+      <link>https://my.sylar.org/publication/2013c_learning_based_approach/</link>
+      <pubDate>Sun, 03 Nov 2013 09:00:00 +0200</pubDate>
+      <guid>https://my.sylar.org/publication/2013c_learning_based_approach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Decision System for Aircraft Faults Diagnosis Based on Classification Trees and PCA</title>
+      <link>https://my.sylar.org/publication/2013b_decision_system_aircraft/</link>
+      <pubDate>Sat, 07 Sep 2013 09:00:00 +0200</pubDate>
+      <guid>https://my.sylar.org/publication/2013b_decision_system_aircraft/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards a systematic study of binaural cues</title>
+      <link>https://my.sylar.org/publication/2012c_towards_systematic/</link>
+      <pubDate>Sun, 07 Oct 2012 09:00:00 +0200</pubDate>
+      <guid>https://my.sylar.org/publication/2012c_towards_systematic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A binaural sound source localization method using auditive cues and vision</title>
+      <link>https://my.sylar.org/publication/2012c_auditive_cues_and_vision/</link>
+      <pubDate>Sun, 25 Mar 2012 09:00:00 +0200</pubDate>
+      <guid>https://my.sylar.org/publication/2012c_auditive_cues_and_vision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multimodal sound localization for humanoid robots based on visio-auditive learning</title>
+      <link>https://my.sylar.org/publication/2011c_multimodal_sound_localization/</link>
+      <pubDate>Wed, 07 Dec 2011 09:00:00 +0200</pubDate>
+      <guid>https://my.sylar.org/publication/2011c_multimodal_sound_localization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Approaches for Automatic Speaker Recognition in a Binaural Humanoid Context</title>
+      <link>https://my.sylar.org/publication/2011c_approaches_speaker_reco/</link>
+      <pubDate>Wed, 27 Apr 2011 09:00:00 +0200</pubDate>
+      <guid>https://my.sylar.org/publication/2011c_approaches_speaker_reco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Binaural Speaker Recognition for humanoid robots</title>
+      <link>https://my.sylar.org/publication/2010c_binaural_speaker_recognition2/</link>
+      <pubDate>Tue, 14 Dec 2010 09:00:00 +0100</pubDate>
+      <guid>https://my.sylar.org/publication/2010c_binaural_speaker_recognition2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Binaural speaker recognition for humanoid robots</title>
+      <link>https://my.sylar.org/publication/2010c_binaural_speaker_recognition/</link>
+      <pubDate>Tue, 07 Dec 2010 09:00:00 +0100</pubDate>
+      <guid>https://my.sylar.org/publication/2010c_binaural_speaker_recognition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From monaural to binaural speaker recognition for humanoid robots</title>
+      <link>https://my.sylar.org/publication/2010c_monaural_binaural_speaker_recognition/</link>
+      <pubDate>Mon, 06 Dec 2010 09:00:00 +0100</pubDate>
+      <guid>https://my.sylar.org/publication/2010c_monaural_binaural_speaker_recognition/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

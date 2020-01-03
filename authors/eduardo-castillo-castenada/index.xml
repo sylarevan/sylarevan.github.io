@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eduardo Castillo-Castenada | Sylvain Argentieri</title>
+    <link>https://my.sylar.org/authors/eduardo-castillo-castenada/</link>
+      <atom:link href="https://my.sylar.org/authors/eduardo-castillo-castenada/index.xml" rel="self" type="application/rss+xml" />
+    <description>Eduardo Castillo-Castenada</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 18 Oct 2010 09:00:00 +0200</lastBuildDate>
+    <image>
+      <url>https://my.sylar.org/images/icon_hu1a01b3fab95c353a9499cb6a8a91062a_16677_512x512_fill_lanczos_center_2.png</url>
+      <title>Eduardo Castillo-Castenada</title>
+      <link>https://my.sylar.org/authors/eduardo-castillo-castenada/</link>
+    </image>
+    
+    <item>
+      <title>Space dimension perception from the multimodal sensorimotor flow of a naive robotic agent</title>
+      <link>https://my.sylar.org/publication/2010c_space_dimension_perception/</link>
+      <pubDate>Mon, 18 Oct 2010 09:00:00 +0200</pubDate>
+      <guid>https://my.sylar.org/publication/2010c_space_dimension_perception/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
