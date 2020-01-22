@@ -25,6 +25,12 @@
 &lt;/ul&gt;
 &lt;p&gt;This very generic approach do work pretty well! As long as your models (of the robot, its sensors, the world, etc.) do fit pretty well the reality for the given task, quite amazing results can be obtained. But being able to deal with incomplete models (and they always are incomplete!), being able to face unpredictable situations where all your models can no longer apply is still a very difficult task. One solution could consist in questioning the aforementioned perception architecture (the perceive/plan/act scheme). One could indeed envisage a new way to deal with perception where this ability is no longer somewhat given a priori by the designer of the system, but instead built and discovered by the robot, not from the raw sensory signals (i.e. the outputs od its sensors), but from the sensorimotor flow (i.e. the data made of the data coming from extero and/or proprioceptive sensors, and of the commands of the joints).&lt;/p&gt;
 &lt;p&gt;In this line of research, the question of the emergence of internal representation of the robot interaction in its own environment is a central issue. It is indeed only on the basis on these representations that the robot will be able to plan and act in its environment (and not on a priori models like in previous approaches). This question is absolutely fundamental when trying to build robot with autonomy and adaptability capabilities, which are mandatory capabilities in modern application of Robotics.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;I chose to work on those topics through the &lt;em&gt;sensorimotor contingencies theory&lt;/em&gt;, that explains that perceiving is analog to the discovering of stable relations (i.e. &lt;em&gt;contingencies&lt;/em&gt;) linking motors and sensory events. Then characterizing these invariants (that is, determining precisely what they are and what are their properties) might help to investigate how internal representations built thanks to them could allow a robot to infer spatial structures without almost no a priori. For that purpose, we already worked on some of these aspects through two main contributions, mainly dealt with from a theoretical (mathematical) point of view.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://my.sylar.org/projects-details/dimension_estimation/&#34;&gt;space dimension estimation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://my.sylar.org/projects-details/structuration_sensorimotor_flow/&#34;&gt;structuration of the sensorimotor flow&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     

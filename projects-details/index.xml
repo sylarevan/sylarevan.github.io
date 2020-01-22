@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects-details | Sylvain Argentieri</title>
+    <link>https://my.sylar.org/projects-details/</link>
+      <atom:link href="https://my.sylar.org/projects-details/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects-details</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 22 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://my.sylar.org/images/icon_hu1a01b3fab95c353a9499cb6a8a91062a_16677_512x512_fill_lanczos_center_2.png</url>
+      <title>Projects-details</title>
+      <link>https://my.sylar.org/projects-details/</link>
+    </image>
+    
+    <item>
+      <title>Space dimension estimation</title>
+      <link>https://my.sylar.org/projects-details/dimension_estimation/</link>
+      <pubDate>Wed, 22 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://my.sylar.org/projects-details/dimension_estimation/</guid>
+      <description>&lt;p&gt;More to come &lt;em&gt;soon&lt;/em&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Structuration of the sensorimotor flow</title>
+      <link>https://my.sylar.org/projects-details/structuration_sensorimotor_flow/</link>
+      <pubDate>Wed, 22 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://my.sylar.org/projects-details/structuration_sensorimotor_flow/</guid>
+      <description>&lt;p&gt;More to come &lt;em&gt;soon&lt;/em&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
