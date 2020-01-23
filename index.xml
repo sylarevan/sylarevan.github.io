@@ -13,6 +13,28 @@
     </image>
     
     <item>
+      <title>Binaural cues characterization</title>
+      <link>https://my.sylar.org/projects-details/binaural_cues_characterization/</link>
+      <pubDate>Wed, 22 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://my.sylar.org/projects-details/binaural_cues_characterization/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://my.sylar.org/project/robot_audition/&#34;&gt;&amp;laquo; back to Robot Audition&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Almost everyone agree on the physical meaning of interaural cues used for horizontal sound source localization (time delay/phase difference and amplitude difference between the left and right ears signals), there is no clear agreement on the best way to estimate their value. For instance, here is short, clearly incomplete, list of the more classical estimation methods:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://my.sylar.org/img/projects/cues-list.png&#34; alt=&#34;The sensorimotor version of perception&#34;&gt;&lt;/p&gt;
+&lt;p&gt;We then worked during &lt;a href=&#34;https://my.sylar.org/authors/karim-youssef/&#34;&gt;K. Youssef&lt;/a&gt; PhD on the comparison between the different definitions proposed in the literature, and on the evaluation of their performances evaluated through a positional classes separation criterion (in azimuth and distance), or in terms of speaker recognition rate. These works demonstrate the robustness of amplitude-bases cues w.r.t. reverberation (ands this was of course expected!), and show that cochlear frequency decomposition outperform classical FFT-based approaches, at a time where they were the most exploited in a Robotics context.&lt;/p&gt;
+&lt;div style=&#34;text-align: right&#34;&gt; &lt;a href=&#34;https://my.sylar.org/projects-details/source_localization/&#34;&gt;Binaural sound source localization &gt;&gt;&lt;/a&gt;&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Binaural sound source localization</title>
+      <link>https://my.sylar.org/projects-details/source_localization/</link>
+      <pubDate>Wed, 22 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://my.sylar.org/projects-details/source_localization/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://my.sylar.org/project/robot_audition/&#34;&gt;&amp;laquo; back to Robot Audition&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;On the basis on our &lt;a href=&#34;https://my.sylar.org/projects-details/binaural_cues_characterization/&#34;&gt;binaural cues characterization&lt;/a&gt;, we exploited an artificial neural network (ANN) to learn and estimate the azimuth and distance of sound sources in the environment. But realistic robotics applications involve dynamic scenarios, where the relative position between the sources and the robot can evolve along time in a reverberant environment. We have then characterized &amp;mdash;during &lt;a href=&#34;https://my.sylar.org/authors/karim-youssef/&#34;&gt;K. Youssef&lt;/a&gt; PhD thesis&amp;mdash; the consequences of those changes in relative and absolute positions during the learning and test phases, and studied the generalization capabilities of the proposed ANN. More precisely, we highlighted the sensitivity of the learning phase to acoustical conditions (changes in the reverberation time) and binaural receiver position (different positions in a room). Multiconditionnal learning is thus shown mandatory, even if collecting data in all the various required conditions is far from beaing easy, especially when dealing with a binaural receiver on a mobile robot.&lt;/p&gt;
+&lt;!--&lt;div style=&#34;text-align: right&#34;&gt; &lt;a href=&#34;https://my.sylar.org/projects-details/structuration_sensorimotor_flow/&#34;&gt;Structuration of the sensorimotor flow &gt;&gt;&lt;/a&gt;&lt;/div&gt;--&gt;</description>
+    </item>
+    
+    <item>
       <title>Space dimension estimation</title>
       <link>https://my.sylar.org/projects-details/dimension_estimation/</link>
       <pubDate>Wed, 22 Jan 2020 00:00:00 +0000</pubDate>
@@ -71,8 +93,8 @@
 &lt;/ul&gt;
 &lt;p&gt;Indeed, hearing is rarely a purely static task. For instance, one often makes small head movements to disambiguate sound location, or better sound recognition. This is specifically what I have been dealing with, i.e. &lt;em&gt;&lt;strong&gt;active binaural audition&lt;/strong&gt;&lt;/em&gt;. On this topic, I have mainly proposed contributions on:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;the characterization of binaural cues used for sound localization and source recognition in realistic conditions,&lt;/li&gt;
-&lt;li&gt;the specific sound localization problem,&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://my.sylar.org/projects-details/binaural_cues_characterization/&#34;&gt;the characterization of binaural cues&lt;/a&gt; used for sound localization and source recognition in realistic conditions,&lt;/li&gt;
+&lt;li&gt;the specific &lt;a href=&#34;https://my.sylar.org/projects-details/source_localization/&#34;&gt;sound localization&lt;/a&gt; problem,&lt;/li&gt;
 &lt;li&gt;the use of the binaural movement to better sound localization,&lt;/li&gt;
 &lt;li&gt;and the building of multimodal representation of unknown environments through head movements.&lt;/li&gt;
 &lt;/ul&gt;
