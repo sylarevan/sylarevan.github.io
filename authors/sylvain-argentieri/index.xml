@@ -5,12 +5,20 @@
     <link>https://my.sylar.org/authors/sylvain-argentieri/</link>
       <atom:link href="https://my.sylar.org/authors/sylvain-argentieri/index.xml" rel="self" type="application/rss+xml" />
     <description>Sylvain Argentieri</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://my.sylar.org/images/icon_hu1a01b3fab95c353a9499cb6a8a91062a_16677_512x512_fill_lanczos_center_2.png</url>
       <title>Sylvain Argentieri</title>
       <link>https://my.sylar.org/authors/sylvain-argentieri/</link>
     </image>
+    
+    <item>
+      <title>A Formal Account of Structuring Motor Actions With Sensory Prediction for a Naive Agent</title>
+      <link>https://my.sylar.org/publication/2020j_a_formal_account/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://my.sylar.org/publication/2020j_a_formal_account/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Audition as a Trigger for Head Movements</title>

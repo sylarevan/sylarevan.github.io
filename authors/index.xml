@@ -5,7 +5,7 @@
     <link>https://my.sylar.org/authors/</link>
       <atom:link href="https://my.sylar.org/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://my.sylar.org/images/icon_hu1a01b3fab95c353a9499cb6a8a91062a_16677_512x512_fill_lanczos_center_2.png</url>
       <title>Authors</title>
@@ -13,26 +13,34 @@
     </image>
     
     <item>
-      <title>Benjamin Cohen-Lhyver</title>
-      <link>https://my.sylar.org/authors/benjamin-cohen-lhyver/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://my.sylar.org/authors/benjamin-cohen-lhyver/</guid>
+      <title>Bruno Gas</title>
+      <link>https://my.sylar.org/authors/bruno-gas/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://my.sylar.org/authors/bruno-gas/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Bruno Gas</title>
-      <link>https://my.sylar.org/authors/bruno-gas/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://my.sylar.org/authors/bruno-gas/</guid>
+      <title>Jean-Merwan Godon</title>
+      <link>https://my.sylar.org/authors/jean-merwan-godon/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://my.sylar.org/authors/jean-merwan-godon/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sylvain Argentieri</title>
       <link>https://my.sylar.org/authors/sylvain-argentieri/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
       <guid>https://my.sylar.org/authors/sylvain-argentieri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Benjamin Cohen-Lhyver</title>
+      <link>https://my.sylar.org/authors/benjamin-cohen-lhyver/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://my.sylar.org/authors/benjamin-cohen-lhyver/</guid>
       <description></description>
     </item>
     
@@ -85,7 +93,7 @@
     </item>
     
     <item>
-      <title>Patrick Danès</title>
+      <title>Patrick Danés</title>
       <link>https://my.sylar.org/authors/patrick-danes/</link>
       <pubDate>Sun, 01 Nov 2015 09:00:00 +0200</pubDate>
       <guid>https://my.sylar.org/authors/patrick-danes/</guid>
@@ -205,7 +213,7 @@
     </item>
     
     <item>
-      <title>ZeFeng Wang</title>
+      <title>Zefeng Wang</title>
       <link>https://my.sylar.org/authors/zefeng-wang/</link>
       <pubDate>Sat, 07 Sep 2013 09:00:00 +0200</pubDate>
       <guid>https://my.sylar.org/authors/zefeng-wang/</guid>
