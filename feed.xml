@@ -3,7 +3,7 @@
     <title>Sylvain Argentieri</title>
     <link href="https://my.sylar.org/feed.xml" rel="self" />
     <link href="https://my.sylar.org" />
-    <updated>2022-03-29T13:37:36+02:00</updated>
+    <updated>2022-03-29T13:41:16+02:00</updated>
     <author>
         <name>Sylvain Argentieri</name>
     </author>
@@ -18,7 +18,7 @@
         <id>https://my.sylar.org/digital-signal-processing/</id>
             <category term="Teaching"/>
 
-        <updated>2022-03-29T13:37:36+02:00</updated>
+        <updated>2022-03-29T13:41:16+02:00</updated>
             <summary>
                 <![CDATA[
                     I'm the teaching instructor for the 1st year Master degree unit in digital signal processing, supervised with my colleague Pr.
@@ -83,7 +83,9 @@
 </ul>
 </li>
 </ol>
+<blockquote>
 <p>Code ressources are not online, but do not hesitate to contact me if you want them!</p>
+</blockquote>
             ]]>
         </content>
     </entry>
