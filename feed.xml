@@ -3,12 +3,84 @@
     <title>Sylvain Argentieri</title>
     <link href="https://my.sylar.org/feed.xml" rel="self" />
     <link href="https://my.sylar.org" />
-    <updated>2023-03-11T17:33:09+01:00</updated>
+    <updated>2023-10-25T13:31:04+02:00</updated>
     <author>
         <name>Sylvain Argentieri</name>
     </author>
     <id>https://my.sylar.org</id>
 
+    <entry>
+        <title>Stage / Internship</title>
+        <author>
+            <name>Sylvain Argentieri</name>
+        </author>
+        <link href="https://my.sylar.org/stage-internship/"/>
+        <id>https://my.sylar.org/stage-internship/</id>
+
+        <updated>2023-10-25T13:31:04+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Structuring the action space of a naive agent in sensorimotor interaction Context The AMAC team (Architectures and Models for Adaptation&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+    <h2 id="structuring-the-action-space-of-a-naive-agent-in-sensorimotor-interactionbr" class="align-center">
+      Structuring the action space of a naive agent in sensorimotor interaction<br>
+    </h2>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://my.sylar.org/media/posts/15/isir.jpg" height="121" width="160" alt=""  sizes="(max-width: 48em) 100vw, 768px" srcset="https://my.sylar.org/media/posts/15/responsive/isir-xs.jpg 300w ,https://my.sylar.org/media/posts/15/responsive/isir-sm.jpg 480w ,https://my.sylar.org/media/posts/15/responsive/isir-md.jpg 768w">
+      
+    </figure>
+
+    <h3 id="context">
+      Context
+    </h3>
+
+  <p>
+    The AMAC team (Architectures and Models for Adaptation and Cognition) from the Institut des Systèmes Intelligents et de Robotique (ISIR) has been working for several years on the sensorimotor approach to perception. This approach is fundamentally opposed to the modeling approach classically used in robotics, in which the system is modeled, by the engineer, via a set of laws and parameters taken directly from the laws of physics. The model thus obtained is then highly dependent on the relevance and concordance of the parameters with physical reality. The sensorimotor approach, on the other hand, considers the system from an intrinsic point of view, where every structure is induced by the dependencies between its inputs (exteroceptive sensations) and its outputs (motor commands). The aim of the AMAC team is to apply this approach, already partially enunciated or theorized by neuroscientists, psychologists and mathematicians, to the concrete framework of developmental robotics.<br><br>The aim of the work carried out at ISIR on this theme was to formalize, mathematically and algorithmically, the processes that enable a totally naive agent -i.e. one with no a priori knowledge of its kinematic structure or environment- to extract information from its interaction with the physical space in which it is immersed. This is made possible intuitively by the interlink between its motor actions and the information obtained by its sensors. The team has already obtained convincing theoretical results on these subjects, demonstrating mathematically that a naïve robot was capable of constructing an image of its body <b>[Marcel2017]</b> or its workspace <b>[Marcel2021]</b> without the slightest model, or of structuring or interpreting the sensory consequences of its own motor actions even though they were initially unknown <b>[Goasguen2022]</b>.<br>
+  </p>
+
+    <h3 id="subject">
+      Subject
+    </h3>
+
+  <p>
+    The aim of this internship topic is to continue the developments proposed in [Goasguen2022], which are still limited in scope by the assumptions made. Indeed, this contribution shows how elementary sensory prediction capabilities can be used to structure agent actions. However, the prediction functions exploited here only take the form of permutation functions within a simple visual sensor: by applying an action, the agent only causes a "sliding" of visual information within the camera observing its environment. While this hypothesis provides formal evidence for action structures, it remains largely unrealistic and limits the analysis to visual data.<br><br>The idea is therefore to focus on a more general case where the influence of actions on the agent's sensory observations is no longer limited to simple permutations, but can instead be characterized by more general, and in particular non-linear, functions. In this context, it is proposed to design a simple learning model that can perform a probabilistic prediction of future sensory observations based on past actions and observations. On this basis, it will then be necessary to understand (i) how combinations of these predictions can be exploited to capture the corresponding action combinations, but also (ii) to study the structures obtained from the agent's actions in different environments. The question of extending these considerations to other sensory modalities, such as audition, may also arise, as the general framework is initially intended to be multimodal. Another extension is to study the use of this structure for learning state representations.<br><br>This research work will be based on a detailed bibliography on the context, subject and state of the art of the project, and will give rise -depending on the results obtained- to the writing of a scientific article.
+  </p>
+
+  <p>
+    <b>[Marcel2017]</b> V. Marcel, S. Argentieri and B. Gas, <i>Building a Sensorimotor Representation of a Naive Agent's Tactile Space</i>,&nbsp;IEEE Transactions on Cognitive and Developmental Systems (2017),volume 9, number 2, 141--152.<br><br><b>[Marcel2021]</b> V. Marcel, S. Argentieri and B. Gas, <i>Where Do I Move My Sensors? Emergence of a Topological Representation of Sensors Poses From the Sensorimotor Flow</i>, IEEE Transactions on Cognitive and Developmental Systems (2021), volume 13, number 2, 312--325.<br><br><b>[Goasguen2022]</b> L. Goasguen, J.-M.Godon et S. Argentieri, <i>From State Transitions to Sensory Regularity: Structuring Uninterpreted Sensory Signals from Naive sensorimotor Experiences</i>,&nbsp;IEEE Transactions on Cognitive and Developmental Systems (2022), <br>  in press.&nbsp; &nbsp;<br>
+  </p>
+
+    <h3 id="profile-required">
+      Profile required
+    </h3>
+
+  <ul>
+    <li><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: 1em; font-weight: var(--font-weight-normal);">Student in the final year of a Master's 2 or in the final year of an engineering school in robotics, artificial intelligence, or a related field;</span></li><li><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: 1em; font-weight: var(--font-weight-normal);">Strong interest in theoretical research;</span></li><li><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: 1em; font-weight: var(--font-weight-normal);">Ability to work independently and as part of a team;</span></li><li><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: 1em; font-weight: var(--font-weight-normal);">Excellent communication and writing skills;</span></li><li><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: 1em; font-weight: var(--font-weight-normal);">Good command of English</span>.</li>
+  </ul>
+
+    <h3 id="general-information">
+      General information
+    </h3>
+
+  <ul>
+    <li>Supervisors: <a href="https://www.isir.upmc.fr/personnel/annabi/" target="_blank">Louis Annabi</a> and <a href="https://www.isir.upmc.fr/personnel/argentieri/" target="_blank">Sylvain Argentieri</a></li><li>Starting date: from February 2024 ;</li><li>Internship duration: 5 to 6 months ;</li><li>Desired level of study: Master 2 ;</li><li>Laboratory: <a href="https://www.isir.upmc.fr/" target="_blank">ISIR</a>, <a href="https://sciences.sorbonne-universite.fr/" target="_blank">Sorbonne Université</a>, Campus Pierre et Marie Curie, 4 place Jussieu, 75005 Paris.</li>
+  </ul>
+
+    <h3 id="how-to-apply">
+      How to apply
+    </h3>
+
+  <p>
+    Interested candidates are invited to send their CVs, covering letters and transcripts to<br><a href="mailto:annabi(at)isir.upmc.fr">Louis Annabi (annabi(at)isir.upmc.fr)</a>&nbsp;and&nbsp;<a href="mailto:sylvain.argentieri(at)sorbonne-universite.fr">Sylvain Argentieri (sylvain.argentieri(at)sorbonne-universite.fr)</a>.<br><br>Please include ``Internship application - ISIR'' in the subject line of the e-mail. Shortlisted candidates will be contacted for an interview.<br>
+  </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Digital signal processing</title>
         <author>
@@ -231,7 +303,7 @@
         <link href="https://my.sylar.org/people/"/>
         <id>https://my.sylar.org/people/</id>
 
-        <updated>2022-02-20T18:43:18+01:00</updated>
+        <updated>2023-10-25T12:36:59+02:00</updated>
             <summary>
                 <![CDATA[
                     Research is definitely not something you can do alone. You work with colleagues, partners, students, all of them sharing their&hellip;
@@ -249,15 +321,15 @@
 </tr>
 </tbody>
 </table>
-<table style="border-collapse: collapse; width: 100%; border-style: none;" border="0">
+<h2>👨‍🎓 Former PhD students:</h2>
+<table style="border-collapse: collapse; width: 100.142%; border-style: none;" border="0">
 <tbody>
 <tr>
-<td style="width: 23.2847%;"><figure class="post__image post__image--center"><img loading="lazy"  src="https://my.sylar.org/media/posts/10/Waradon.jpg" alt="" width="125" height="125" sizes="(max-width: 48em) 100vw, 768px" srcset="https://my.sylar.org/media/posts/10/responsive/Waradon-xs.jpg 300w ,https://my.sylar.org/media/posts/10/responsive/Waradon-sm.jpg 480w ,https://my.sylar.org/media/posts/10/responsive/Waradon-md.jpg 768w"></figure></td>
-<td style="width: 76.7153%;"><strong>Waradon Senzt Phokhinanan </strong>(2019 - to date), in cooperation with <a href="https://www.ircam.fr/person/nicolas-obin/">Nicolas Obin</a> (IRCAM).<br>Waradon is working on robotic audition, and tries to evaluate the use of recent machine learning approaches to binaural sound localization.</td>
+<td style="width: 23.2525%;"><figure class="post__image post__image--center"><img loading="lazy"  src="https://my.sylar.org/media/posts/10/Waradon.jpg" alt="" width="125" height="125" sizes="(max-width: 48em) 100vw, 768px" srcset="https://my.sylar.org/media/posts/10/responsive/Waradon-xs.jpg 300w ,https://my.sylar.org/media/posts/10/responsive/Waradon-sm.jpg 480w ,https://my.sylar.org/media/posts/10/responsive/Waradon-md.jpg 768w"></figure></td>
+<td style="width: 76.7475%;"><strong>Waradon Senzt Phokhinanan </strong>(2020 - 2022), in cooperation with <a href="https://www.ircam.fr/person/nicolas-obin/">Nicolas Obin</a> (IRCAM).<br>Waradon worked on robotic audition, and tried to evaluate the use of recent machine learning approaches to binaural sound localization. Waradon left for personal reason but is still pursuing a research DUR.</td>
 </tr>
 </tbody>
 </table>
-<h2>👨‍🎓 Former PhD students:</h2>
 <table style="border-collapse: collapse; width: 100%; border-style: none;" border="0">
 <tbody>
 <tr>
@@ -322,6 +394,7 @@
 <h2>🎒 Master students</h2>
 <p> The following students worked with us during their M.Sc. intership at ISIR:</p>
 <ul>
+<li>2023 : Laïla Moatassim</li>
 <li>2018: Quentin Marmouget, Félix Rohrlich</li>
 <li>2017: Jean-Merwan Godon</li>
 </ul>
@@ -338,17 +411,17 @@
         <id>https://my.sylar.org/publications/</id>
             <category term="Research"/>
 
-        <updated>2023-03-11T17:33:09+01:00</updated>
+        <updated>2023-10-25T12:32:19+02:00</updated>
             <summary>
                 <![CDATA[
-                    ⏳Ongoing work 🆕 Waradon Phokhinanan, Nicolas Obin, Sylvain Argentieri (2023). Binaural Sound Localization in Noisy Environments Using Frequency-Based Audio Vision&hellip;
+                    ⏳Ongoing work 🆕 Waradon Phokhinanan, Nicolas Obin, Sylvain Argentieri (2023). Auditory Cortex-Inspired Spectral Attention Modulation for Binaural Sound Localization in&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <h3>⏳Ongoing work</h3>
 <ul>
-<li>🆕 Waradon Phokhinanan, Nicolas Obin, Sylvain Argentieri (2023). <em>Binaural Sound Localization in Noisy Environments Using Frequency-Based Audio Vision Transformer (FAViT). </em>Submitted to INTERSPEECH 2023<em>.</em><a href="https://hal.archives-ouvertes.fr/hal-03537409v1" target="_blank" rel="noopener noreferrer"></a></li>
+<li>🆕 Waradon Phokhinanan, Nicolas Obin, Sylvain Argentieri (2023). <em>Auditory Cortex-Inspired Spectral Attention Modulation for Binaural Sound Localization in HRTF Mismatch. </em>Submitted to ICASSP 2023<em>.</em><a href="https://hal.archives-ouvertes.fr/hal-03537409v1" target="_blank" rel="noopener noreferrer"></a></li>
 </ul>
 <h3><strong>📓 J</strong><strong>ournals</strong></h3>
 <ul>
@@ -358,7 +431,7 @@
 <li><span class="article-metadata li-cite-author" style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">Jean-Merwan Godon, Sylvain Argentieri, Bruno Gas </span><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);"> (2020). </span><em style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">A Formal Account of Structuring Motor Actions With Sensory Prediction for a Naive Agent</em><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">. in Frontiers in Robotics and AI. <br></span><a href="https://my.sylar.org/Godon2020.pdf" target="_blank" rel="noopener noreferrer">📝PDF</a>  <a href="https://doi.org/10.3389/frobt.2020.561660" target="_blank" rel="noopener noreferrer">🌐DOI</a>  <a href="https://my.sylar.org/Godon2020.bib" target="_blank" rel="noopener noreferrer">📚Bibtex</a><strong><br><br></strong></li>
 <li><span class="article-metadata li-cite-author" style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">Benjamin Cohen-Lhyver, Sylvain Argentieri, Bruno Gas </span><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);"> (2018). </span><em style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">The Head Turning Modulation system: an active multimodal paradigm for intrinsically motivated exploration of unknown environments</em><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">. in Frontiers in Neurorobotics.<br></span><a href="https://my.sylar.org/Cohen-Lhyver2018.pdf" target="_blank" rel="noopener noreferrer">📝PDF</a>  <a href="https://doi.org/10.3389/fnbot.2018.00060" target="_blank" rel="noopener noreferrer">🌐DOI</a>  <a href="https://my.sylar.org/Cohen-Lhyver2018.bib" target="_blank" rel="noopener noreferrer">📚Bibtex</a><strong><br><br></strong></li>
 <li><span class="article-metadata li-cite-author"> Elie Laurent Benaroya, Nicolas Obin, Marco Liuni, Axel Roebel, Wilson Raumel, Sylvain Argentieri </span> (2018). <em>Binaural Localization of Multiple Sound Sources by Non-Negative Tensor Factorization</em>. in IEEE/ACM Transactions on Audio, Speech, and Language Processing.<br><a href="https://my.sylar.org/Benaroya2018.pdf" target="_blank" rel="noopener noreferrer">📝PDF</a>  <a href="https://doi.org/10.1109/TASLP.2018.2806745" target="_blank" rel="noopener noreferrer">🌐DOI</a>  <a href="https://my.sylar.org/Benaroya2018.bib" target="_blank" rel="noopener noreferrer">📚Bibtex</a><strong><br><br></strong></li>
-<li><span class="article-metadata li-cite-author" style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">Valentin Marcel, Sylvain Argentieri, Bruno Gas </span><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);"> (2017). </span><em><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">Building a Sensorimotor Representation of a Naive Agent’s Tactile Space</span></em><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">. in IEEE Transactions on Cognitive and Developmental Systems.<br><a href="https://my.sylar.org/Benaroya2018.pdf" target="_blank" rel="noopener noreferrer">📝PDF</a>  <a href="https://doi.org/10.1109/TASLP.2018.2806745" target="_blank" rel="noopener noreferrer">🌐DOI</a>  <a href="https://my.sylar.org/Benaroya2018.bib" target="_blank" rel="noopener noreferrer">📚Bibtex</a><strong><br><br></strong></span></li>
+<li><span class="article-metadata li-cite-author" style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">Valentin Marcel, Sylvain Argentieri, Bruno Gas </span><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);"> (2017). </span><em><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">Building a Sensorimotor Representation of a Naive Agent’s Tactile Space</span></em><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">. in IEEE Transactions on Cognitive and Developmental Systems.<br><a href="https://my.sylar.org/Marcel2017.pdf" target="_blank" rel="noopener noreferrer">📝PDF</a>  <a href="https://doi.org/10.1109/TCDS.2016.2617922" target="_blank" rel="noopener noreferrer">🌐DOI</a>  <a href="https://my.sylar.org/Marcel2017.bib" target="_blank" rel="noopener noreferrer">📚Bibtex</a><strong><br><br></strong></span></li>
 <li><span class="article-metadata li-cite-author">Bruno Gas, Sylvain Argentieri </span> (2016). <em>Une brève introduction à la perception sensori-motrice en robotique</em>. Intellectica.<br><strong><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);"><a href="http://intellectica.org/fr/une-breve-introduction-la-perception-sensori-motrice-en-robotique" target="_blank" rel="noopener noreferrer">🌐WEB</a>  <a href="https://my.sylar.org/Gas2016.bib" target="_blank" rel="noopener noreferrer">📚Bibtex</a></span><br><br></strong></li>
 <li><span class="article-metadata li-cite-author">Sylvain Argentieri, Patrick Danès, Philippe Souères </span> (2015). <em>A survey on sound source localization in robotics: From binaural to array processing methods</em>. in Computer, Speech &amp; Language.<br><strong><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);"><a href="https://my.sylar.org/Argentieri2015.pdf" target="_blank" rel="noopener noreferrer">📝PDF</a>  <a href="https://doi.org/10.1016/j.csl.2015.03.003" target="_blank" rel="noopener noreferrer">🌐DOI</a>  <a href="https://my.sylar.org/Argentieri2015.bib" target="_blank" rel="noopener noreferrer">📚Bibtex</a><br>🎉 <em>Best Review Paper award (International Speech Communication Association)</em></span><br><br></strong></li>
 <li><span class="article-metadata li-cite-author"> Alban Laflaquière, J. Kevin O’Regan, Sylvain Argentieri, Bruno Gas, Alexander V.Terekhov </span> (2015). <em>Learning agents spatial configuration from sensorimotor invariants</em>. in Robotics and Autonomous Systems. <br><strong><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);"><a href="https://my.sylar.org/Laflaquiere2015.pdf" target="_blank" rel="noopener noreferrer">📝PDF</a>  <a href="https://doi.org/10.1016/j.robot.2015.01.003" target="_blank" rel="noopener noreferrer">🌐DOI</a>  <a href="https://my.sylar.org/Laflaquiere2015.bib" target="_blank" rel="noopener noreferrer">📚Bibtex</a></span><br><br></strong></li>
@@ -381,7 +454,8 @@
 <div>
 <div class="grid-sizer col-lg-12 isotope-item pubtype-1 year-2016">
 <ul>
-<li class="pub-list-item"><span class="article-metadata li-cite-author"> Benjamin Cohen-Lhyver, Sylvain Argentieri, Bruno Gas </span> (2016). <em>Multimodal fusion and inference using binaural audition and vision</em>. in 22nd International Congress on Acoustics.<br><strong><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);"><a href="https://my.sylar.org/Cohen-Lhyver2016.pdf" target="_blank" rel="noopener noreferrer">📝PDF</a>  <a href="https://my.sylar.org/Cohen-Lhyver2016.bib" target="_blank" rel="noopener noreferrer">📚Bibtex</a><br><br></span></strong></li>
+<li>🆕 Waradon Phokhinanan, Nicolas Obin, Sylvain Argentieri (2023). <em><em>Binaural Sound Localization in Noisy Environments Using Frequency-Based Audio Vision Transformer (FAViT). </em></em>Proc. INTERSPEECH 2023, 3704-3708.<em><br></em><strong><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);"><a href="https://my.sylar.org/Phokhinanan2023.pdf" target="_blank" rel="noopener noreferrer">📝PDF</a>  <a href="https://www.doi.org/10.21437/Interspeech.2023-2015" target="_blank" rel="noopener noreferrer">🌐DOI</a>  <a href="https://my.sylar.org/Phokhinanan2023.bib" target="_blank" rel="noopener noreferrer">📚Bibtex</a><br><br></span></strong><a href="https://hal.archives-ouvertes.fr/hal-03537409v1" target="_blank" rel="noopener noreferrer"></a></li>
+<li class="pub-list-item"><span class="article-metadata li-cite-author">Benjamin Cohen-Lhyver, Sylvain Argentieri, Bruno Gas </span> (2016). <em>Multimodal fusion and inference using binaural audition and vision</em>. in 22nd International Congress on Acoustics.<br><strong><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);"><a href="https://my.sylar.org/Cohen-Lhyver2016.pdf" target="_blank" rel="noopener noreferrer">📝PDF</a>  <a href="https://my.sylar.org/Cohen-Lhyver2016.bib" target="_blank" rel="noopener noreferrer">📚Bibtex</a><br><br></span></strong></li>
 <li><span class="article-metadata li-cite-author"> Benjamin Cohen-Lhyver, Sylvain Argentieri, Bruno Gas </span> (2015). <em>Modulating the auditory turn-to reflex on the basis of multimodal feedback loops: The Dynamic </em><br><em>Weighting model</em>. in IEEE International Conference on Robotics and Biomimetics.<br><strong><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);"><a href="https://my.sylar.org/Cohen-Lhyver2015.pdf" target="_blank" rel="noopener noreferrer">📝PDF</a>  <a href="https://doi.org/10.1109/ROBIO.2015.7418920" target="_blank" rel="noopener noreferrer">🌐DOI</a>  <a href="https://my.sylar.org/Cohen-Lhyver2015.bib" target="_blank" rel="noopener noreferrer">📚Bibtex</a><br><br></span></strong></li>
 <li>Boris Garcia, Mathieu Bernard, Sylvain Argentieri, Bruno Gas <span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);"> (2014). </span><em><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">Sensorimotor Learning of Sound Localization for an Autonomous Robot</span></em><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">. Forum Acusticum.<br><a href="https://my.sylar.org/Cohen-Lhyver2015.pdf" target="_blank" rel="noopener noreferrer"></a><a href="https://my.sylar.org/Garcia2014.pdf" target="_blank" rel="noopener noreferrer">📝PDF</a>  <a href="https://doi.org/10.1109/ROBIO.2015.7418920" target="_blank" rel="noopener noreferrer"></a><a href="https://my.sylar.org/Garcia2014.bib" target="_blank" rel="noopener noreferrer">📚Bibtex</a><strong><br><br></strong></span></li>
 <li>Alban Portello, Patrick Danès, Sylvain Argentieri, Sylvain Pledel <span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);"> (2013). <em>HRTF-based source azimuth estimation and activity detection from a binaural sensor</em>. in 2013 IEEE/RSJ International Conference on Intelligent Robots and Systems.<br><a href="https://my.sylar.org/Portello2013.pdf" target="_blank" rel="noopener noreferrer">📝PDF</a>  <a href="https://doi.org/10.1109/IROS.2013.6696768" target="_blank" rel="noopener noreferrer">🌐DOI</a>  <a href="https://my.sylar.org/Portello2013.bib" target="_blank" rel="noopener noreferrer">📚Bibtex</a><strong><br><br></strong></span></li>
@@ -504,32 +578,6 @@
 <li>the use of the binaural movement to better sound localization,</li>
 <li>and the building of multimodal representation of unknown environments through head movements.</li>
 </ul>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Space dimension estimation</title>
-        <author>
-            <name>Sylvain Argentieri</name>
-        </author>
-        <link href="https://my.sylar.org/space-dimension-estimation/"/>
-        <id>https://my.sylar.org/space-dimension-estimation/</id>
-            <category term="Research"/>
-
-        <updated>2022-02-20T18:40:01+01:00</updated>
-            <summary>
-                <![CDATA[
-                    3D? 2D? 5D? Within the sensorimotor paradigm, the question of space is a primary tremendous issue. While space seems like&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <blockquote>
-<p>3D? 2D? 5D?</p>
-</blockquote>
-<p>Within the sensorimotor paradigm, the question of <em><strong>space</strong></em> is a primary tremendous issue. While <em>space</em> seems like a kind of universal, homogeneous and isotropic 3D container shared by all of us and our environment, discovering that <em>space</em> actually exists only on the basis on what is actually available “from the inside” (i.e. the sensorimotor flow) is far from being intuitive. Especially since the sensorimotor flow isn’t homogeneous, isotropic and 3D…</p>
-<p>In particular, is it possible to rediscover that <em>space</em> out there is a 3D space (at least from our point of view!), and that it can be characterize by 6 independent spatial variables corresponding to the 3 translations and 3 rotations we all know? This important question has already been raised by Henri Poincaré at the end of the 19th century. Philipona showed in 2008 it was possible to recover space dimensionality from the sensorimotor flow, but only from infinitesimal movements. By using non-linear dimensional estimation techniques, we have shown <a href="https://my.sylar.org/publication/2012c_non_linear_approach/">in this paper</a> that, while using realistic movements magnitudes, it was still possible to correctly estimate space dimension.</p>
-<p><a href="https://my.sylar.org/interactive-perception/">&lt;&lt; back to Interactive Perception</a></p>
             ]]>
         </content>
     </entry>
