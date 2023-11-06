@@ -3,7 +3,7 @@
     <title>Sylvain Argentieri</title>
     <link href="https://my.sylar.org/feed.xml" rel="self" />
     <link href="https://my.sylar.org" />
-    <updated>2023-10-25T14:27:38+02:00</updated>
+    <updated>2023-11-06T09:41:19+01:00</updated>
     <author>
         <name>Sylvain Argentieri</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://my.sylar.org/stage-internship/"/>
         <id>https://my.sylar.org/stage-internship/</id>
 
-        <updated>2023-10-25T14:27:38+02:00</updated>
+        <updated>2023-11-06T09:41:19+01:00</updated>
             <summary>
                 <![CDATA[
                     Structuring the action space of a naive agent in sensorimotor interaction Context The AMAC team (Architectures and Models for Adaptation&hellip;
@@ -48,11 +48,23 @@
     </h3>
 
   <p>
-    The aim of this internship topic is to continue the developments proposed in <b>[Goasguen2022]</b>, which are still limited in scope by the assumptions made. Indeed, this contribution shows how elementary sensory prediction capabilities can be used to structure agent actions. However, the prediction functions exploited here only take the form of permutation functions within a simple visual sensor: by applying an action, the agent only causes a "sliding" of visual information within the camera observing its environment. While this hypothesis provides formal evidence for action structures, it remains largely unrealistic and limits the analysis to visual data.<br><br>The idea is therefore to focus on a more general case where the influence of actions on the agent's sensory observations is no longer limited to simple permutations, but can instead be characterized by more general, and in particular non-linear, functions. In this context, it is proposed to design a simple learning model that can perform a probabilistic prediction of future sensory observations based on past actions and observations. On this basis, it will then be necessary to understand (i) how combinations of these predictions can be exploited to capture the corresponding action combinations, but also (ii) to study the structures obtained from the agent's actions in different environments. The question of extending these considerations to other sensory modalities, such as audition, may also arise, as the general framework is initially intended to be multimodal. Another extension is to study the use of this structure for learning state representations.<br><br>This research work will be based on a detailed bibliography on the context, subject and state of the art of the project, and will give rise -depending on the results obtained- to the writing of a scientific article.
+    The aim of this internship topic is to continue the developments proposed in <b>[Goasguen2022]</b>, which are still limited in scope by the assumptions made. Indeed, this contribution shows how elementary sensory prediction capabilities can be used to structure agent actions. However, the prediction functions exploited here only take the form of permutation functions within a simple visual sensor: by applying an action, the agent only causes a "sliding" of visual information within the camera observing its environment. While this hypothesis provides formal evidence for action structures, it remains largely unrealistic and limits the analysis to visual data.<br><br>The idea is therefore to focus on a more general case where the influence of actions on the agent's sensory observations is no longer limited to simple permutations, but can instead be characterized by more general, and in particular non-linear, functions. In this context, it is proposed to design a simple learning model that can perform a probabilistic prediction of future sensory observations based on past actions and observations. On this basis, it will then be necessary to understand (i) how combinations of these predictions can be exploited to capture the corresponding action combinations, but also (ii) to study the structures obtained from the agent's actions in different environments. The question of extending these considerations to other sensory modalities, such as audition, may also arise, as the general framework is initially intended to be multimodal. Another extension is to study the use of this structure for learning disentangled state representations. Indeed, <b>[Caselles2019, Quessard2020]</b> show that in the symmetry-based disentangled representation learning framework, disentanglement is obtained by enforcing the state representation and the action space to share the same group decomposition. Therefore, the internship could, in a second stage, investigate the exploitation of the action structure discovery method for learning disentangled state representations in various environments.<br><br>This research work will be based on a detailed bibliography on the context, subject and state of the art of the project, and will give rise -depending on the results obtained- to the writing of a scientific article.
   </p>
 
   <p>
-    <b>[Marcel2017]</b> V. Marcel, S. Argentieri and B. Gas, <i>Building a Sensorimotor Representation of a Naive Agent's Tactile Space</i>,&nbsp;IEEE Transactions on Cognitive and Developmental Systems (2017),volume 9, number 2, 141--152.<br><br><b>[Marcel2021]</b> V. Marcel, S. Argentieri and B. Gas, <i>Where Do I Move My Sensors? Emergence of a Topological Representation of Sensors Poses From the Sensorimotor Flow</i>, IEEE Transactions on Cognitive and Developmental Systems (2021), volume 13, number 2, 312--325.<br><br><b>[Goasguen2022]</b> L. Goasguen, J.-M.Godon et S. Argentieri, <i>From State Transitions to Sensory Regularity: Structuring Uninterpreted Sensory Signals from Naive sensorimotor Experiences</i>,&nbsp;IEEE Transactions on Cognitive and Developmental Systems (2022), in press.&nbsp; &nbsp;<br>
+    <b>[Marcel2017]</b> V. Marcel, S. Argentieri and B. Gas, <i>Building a Sensorimotor Representation of a Naive Agent's Tactile Space</i>,&nbsp;IEEE Transactions on Cognitive and Developmental Systems (2017),volume 9, number 2, 141--152.
+  </p>
+
+  <p>
+    <b>[Caselles2019]</b>&nbsp;H. Caselles-Dupré, M. Garcia Ortiz and D. Filliat, <i>Symmetry-based disentangled representation learning requires interaction with environments</i>, Advances in Neural Information Processing Systems, 32 (2019)
+  </p>
+
+  <p>
+    <b>[Quessard2020]</b> R. Quessard, T. Barrett and W. Clements, <i>Learning disentangled representations and group structure of dynamical environments</i>, Advances in Neural Information Processing Systems, 33 (2020)<br>
+  </p>
+
+  <p>
+    <b>[Marcel2021]</b> V. Marcel, S. Argentieri and B. Gas, <i>Where Do I Move My Sensors? Emergence of a Topological Representation of Sensors Poses From the Sensorimotor Flow</i>, IEEE Transactions on Cognitive and Developmental Systems (2021), volume 13, number 2, 312--325.<br><br><b>[Goasguen2022]</b> L. Goasguen, J.-M.Godon et S. Argentieri, <i>From State Transitions to Sensory Regularity: Structuring Uninterpreted Sensory Signals from Naive sensorimotor Experiences</i>,&nbsp;IEEE Transactions on Cognitive and Developmental Systems (2022), in press.&nbsp; &nbsp;<br>
   </p>
 
     <h3 id="profile-required">
